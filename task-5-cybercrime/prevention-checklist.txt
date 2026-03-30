@@ -1,0 +1,18 @@
+STAY SAFE ONLINE
+Cybersecurity Prevention Checklist
+
+1. Never provide or enter your security PIN or an OTP to receive money on UPI related or general online transactions. These are only required for sending money.
+
+2. Always verify "Collect" requests and decline them if they are from unknown IDs.
+
+3. Before paying for any services, ensure that you verify the name of the receiver on the account you are sending money to.
+
+4. Do not provide sensitive information while using insecure tools like remote access apps or public WIFI's.
+
+5. In case you ever end up falling prey to attacks of such scammers, immediately dial 1930, the National Cyber Crime Helpline, or report the problem at cybercrime.gov.in, the National Cyber Crime Portal.
+
+6. Never click on suspicious or unknown links without proper verification. Moreover, never share any details with them willingly.
+
+7. Enable multi-step authorisation for any platforms with your sensitive data, and keep your security details updated in case of changes.
+
+8. Always keep your banking related apps and phone updated to prevent attackers from bypassing the latest security patches
