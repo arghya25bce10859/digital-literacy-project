@@ -15,6 +15,7 @@ GitHub, LinkedIn and Kaggle profiles created/updated.
 # Task 3
 HackerRank account created, and challenges solved.
 Google Form Quiz and Response sheet created.
+Quiz Link: https://forms.gle/gb6wbYYYsattED9NA
 
 # Task 4
 Professional E-mails written.
